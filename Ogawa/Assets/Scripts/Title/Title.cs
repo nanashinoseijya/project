@@ -6,6 +6,7 @@ public class Title : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		
 		Debug.Log("test");
 		
 	}
